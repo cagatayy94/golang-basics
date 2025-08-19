@@ -7,10 +7,10 @@ import (
 func main() {
 	a := `here is something
 	as 
-	a 
+	  a 
 	raw string
-	literal
-	"you see"
-	another thing`
+	 literal
+	            "you see"
+	                     another thing`
 	fmt.Println(a)
 }

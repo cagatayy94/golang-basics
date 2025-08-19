@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	favSport := "surfing"
+	favSport := "wingsuit flying"
 	switch favSport {
 	case "skiing":
 		fmt.Println("go to the mountains!")
